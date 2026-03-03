@@ -1,0 +1,42 @@
+# LANY – dna [demo]
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.00] My reputation says that I fall too fast
+[00:07.60] They try to twist it, try to make it sound bad
+[00:11.36] But I don't care, no, I don't care
+[00:17.34] I've broke some hearts and had my heart broken too
+[00:22.16] And that's the risk I took when I fell for you
+[00:25.92] But I don't care, no, I don't care
+[00:42.92] 
+[00:31.45] This is just the way I am
+[00:43.95] 
+[00:36.25] Sorry I call again when you don't pick up
+[00:40.88] And tell you you're beautiful, but probably too much
+[00:45.57] I tried but I can't treat ya like the rest of LA
+[00:50.16] Oh, it's just not in my DNA
+[00:54.17] To love you only halfway
+[01:06.17] 
+[01:00.56] I wanna hold your hand in front of my friends
+[01:05.22] Say what I'm feelin' and not have to pretend
+[01:09.01] That I don't care, no, I don't care
+[01:13.95] I wanna brag about you when you're not around
+[01:18.84] Hear your name next to mine, 'cause I like the way it sounds
+[01:48.84] 
+[01:23.88] I'm sorry I call again when you don't pick up
+[01:28.85] And tell you you're beautiful, but probably too much
+[01:33.49] I tried but I can't treat ya like the rest of LA
+[01:38.12] Oh, it's just not in my DNA
+[01:42.18] To love you only halfway
+[01:47.03] Love you only halfway
+[01:57.53] 
+[01:53.28] This is just the way I am
+[02:05.78] 
+[01:59.65] I'm sorry I call again when you don't pick up
+[02:04.93] And tell you you're beautiful, but probably too much
+[02:09.27] Oh, I tried but I can't treat ya like the rest of LA
+[02:14.17] Oh, it's just not in my DNA
+[02:18.05] To love you only halfway
+[02:22.96] Love you only halfway
+```
